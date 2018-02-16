@@ -25,6 +25,5 @@
     "electron-builder": "^20.0.4",
     "polymer-cli": "next"
   },
-  "build": {
-  }
+  "build": {}
 }
